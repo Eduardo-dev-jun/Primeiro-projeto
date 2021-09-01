@@ -1,2 +1,2 @@
-# Pirmeiro-projeto
+# Primeiro-projeto
 Começando a usar o github
